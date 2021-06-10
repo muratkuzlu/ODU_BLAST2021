@@ -7,8 +7,10 @@
 #include "ThingSpeak.h"
 #include <ESP8266WiFi.h>
 
-const char *ssid =  "AS2L-Room";     // replace with your wifi ssid and wpa2 key
-const char *pass =  "ODU_BLAST";
+//const char *ssid =  "AS2L-Room";     // replace with your wifi ssid and wpa2 key
+//const char *pass =  "ODU_BLAST";
+const char *ssid =  "BizimEv";     // replace with your wifi ssid and wpa2 key
+const char *pass =  "aybasti52ordu";
 const char* server = "api.thingspeak.com";
  const char * myWriteAPIKey = "3M0SBN71PI6UD1A4";  //  Enter your Write API key from ThingSpeak
 unsigned long myChannelNumber = 803487;
