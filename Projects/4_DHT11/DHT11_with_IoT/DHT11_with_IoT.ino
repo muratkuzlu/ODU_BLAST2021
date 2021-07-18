@@ -5,7 +5,8 @@
 
 #include "DHTesp.h"
 #include "ThingSpeak.h"
-#include <ESPWiFi.h>
+//#include <ESPWiFi.h>
+#include <ESP8266WiFi.h>
 
 //const char *ssid =  "AS2L-Room";     // replace with your wifi ssid and wpa2 key
 //const char *pass =  "ODU_BLAST";
