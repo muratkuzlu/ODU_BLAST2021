@@ -9,8 +9,8 @@
 
 //const char *ssid =  "AS2L-Room";     // replace with your wifi ssid and wpa2 key
 //const char *pass =  "ODU_BLAST";
-const char *ssid =  "Mkuzlu2530A0";     // replace with your wifi ssid and wpa2 key
-const char *pass =  "G2C26B2B69588";
+const char *ssid =  "";     // replace with your wifi ssid and wpa2 key
+const char *pass =  "";
 
 const char* server = "api.thingspeak.com";
 const char * myWriteAPIKey = "3M0SBN71PI6UD1A4";  //  Enter your Write API key from ThingSpeak
