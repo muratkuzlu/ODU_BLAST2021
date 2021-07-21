@@ -18,7 +18,7 @@ const char * myWriteAPIKey = "3M0SBN71PI6UD1A4";  //  Enter your Write API key f
 unsigned long myChannelNumber = 803487;
 uint8_t temperature, humidity, k=0, l=0;
 
-#define DHTPIN D5         //pin where the dht11 is connected
+#define DHTPIN D4         //pin where the dht11 is connected
 DHTesp dht;
 
 WiFiClient client;
